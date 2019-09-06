@@ -1,3 +1,5 @@
+This page has been archived and further updates will be on Christopher’s [GitHub page]( https://github.com/hally166/R_flowcytometry_course).
+
 # R flow cytometry course
 The files and presentation from the Cytometry Core Facility flow cytometry data analysis course in R by [Christopher Hall](https://github.com/hally166).
 
